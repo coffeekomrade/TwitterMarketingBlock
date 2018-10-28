@@ -4,4 +4,4 @@ This repository contains a CSV for blocking promoted tweets on twitter. By no me
 
 Certain Tweeters are not blocked in this list, as they are useful.
 
-Currently contains 828 Marketing Accounts
+Currently contains 1252 Marketing Accounts
