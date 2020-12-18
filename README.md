@@ -5,7 +5,7 @@ Twitter has removed the ability to import/export .csv's for this purpose, so the
 
 
 
-###Archived 12/17/2020
+Archived 12/17/2020
 ---
 This repository contains a CSV for blocking promoted tweets on twitter. By no means is it a comprehensive list but it will help cut down on feed spam.
 
